@@ -1,1 +1,1 @@
-node #!/usr/bin/env 
+var a =7;
